@@ -1,0 +1,13 @@
+Misión 2: Crear tu primer archivo secreto 🕵️‍♂️
+
+Abrí una terminal y escribí este comando:
+
+echo "Soy un mini hacker" > miarchivo.txt
+
+Eso va a crear un archivo nuevo con esa frase.
+
+Después escribí esto para leer lo que hay adentro:
+
+cat miarchivo.txt
+
+¿Lo lograste? Entonces tu camino en JaguaOS recién empieza...
