@@ -1,7 +1,0 @@
-Misión 1: Encontrar el comando secreto
-
-¿Te animás a abrir una terminal y escribir el comando "ls"?
-
-Pista: significa "listar", y te va a mostrar los archivos del lugar donde estás parado.
-
-¿Te atreves?
