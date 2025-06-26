@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="jaguaos.png" alt="JaguaOS Logo" width="200"/>
+</p>
 # JaguaOs
 Sistema operativo liviano y educativo creado en Paraguay por Pacto Chandi.
 # JaguaOS 🐶💻
